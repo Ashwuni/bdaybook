@@ -1,0 +1,6 @@
+-- Name: YourNameHere
+-- WatIAM username: IDhere
+-- 
+-- Details: This file resets the database.
+--          
+-- Warning: Read the homework for detailed instructions.

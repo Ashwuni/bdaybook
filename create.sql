@@ -1,0 +1,6 @@
+-- Name: YourNameHere
+-- WatIAM username: IDhere
+-- 
+-- Details: This file creates the bdaybook database and its tables.
+--          
+-- Warning: Read the homework for detailed instructions.
